@@ -268,7 +268,7 @@
     {
       "type": "vless",
       "tag": "NL-Frankfurt-FRA 4 § 5",
-      "server": "141.144.196.204",
+      "server": "zula.ir",
       "server_port": 443,
       "uuid": "63673fba-f95d-438c-9f78-a2bf8c24ea2f",
       "tls": {
@@ -292,7 +292,7 @@
     {
       "type": "vless",
       "tag": "GB-Frankfurt-FRA 5 § 6",
-      "server": "130.162.176.253",
+      "server": "zula.ir",
       "server_port": 443,
       "uuid": "63673fba-f95d-438c-9f78-a2bf8c24ea2f",
       "tls": {
@@ -316,7 +316,7 @@
     {
       "type": "vless",
       "tag": "NL-Frankfurt-FRA 6 § 7",
-      "server": "143.47.176.214",
+      "server": "zula.ir",
       "server_port": 443,
       "uuid": "63673fba-f95d-438c-9f78-a2bf8c24ea2f",
       "tls": {
@@ -340,7 +340,7 @@
     {
       "type": "vless",
       "tag": "DE-Frankfurt-FRA 7 § 8",
-      "server": "138.2.134.90",
+      "server": "zula.ir",
       "server_port": 443,
       "uuid": "63673fba-f95d-438c-9f78-a2bf8c24ea2f",
       "tls": {
@@ -364,7 +364,7 @@
     {
       "type": "vless",
       "tag": "GB-Frankfurt-FRA 8 § 9",
-      "server": "143.47.225.215",
+      "server": "zula.ir",
       "server_port": 443,
       "uuid": "63673fba-f95d-438c-9f78-a2bf8c24ea2f",
       "tls": {
@@ -388,7 +388,7 @@
     {
       "type": "vless",
       "tag": "GB-Frankfurt-FRA 9 § 10",
-      "server": "141.147.69.188",
+      "server": "zula.ir",
       "server_port": 443,
       "uuid": "63673fba-f95d-438c-9f78-a2bf8c24ea2f",
       "tls": {
@@ -412,7 +412,7 @@
     {
       "type": "vless",
       "tag": "GB-Frankfurt-FRA 10 § 11",
-      "server": "144.21.60.196",
+      "server": "zula.ir",
       "server_port": 443,
       "uuid": "63673fba-f95d-438c-9f78-a2bf8c24ea2f",
       "tls": {
@@ -436,7 +436,7 @@
     {
       "type": "vless",
       "tag": "DE-Frankfurt-FRA 11 § 12",
-      "server": "129.159.241.250",
+      "server": "zula.ir",
       "server_port": 443,
       "uuid": "63673fba-f95d-438c-9f78-a2bf8c24ea2f",
       "tls": {
@@ -460,7 +460,7 @@
     {
       "type": "vless",
       "tag": "DE-Frankfurt-FRA 12 § 13",
-      "server": "138.2.131.38",
+      "server": "zula.ir",
       "server_port": 443,
       "uuid": "63673fba-f95d-438c-9f78-a2bf8c24ea2f",
       "tls": {
@@ -484,7 +484,7 @@
     {
       "type": "vless",
       "tag": "NL-Frankfurt-FRA 13 § 14",
-      "server": "141.148.225.126",
+      "server": "zula.ir",
       "server_port": 443,
       "uuid": "63673fba-f95d-438c-9f78-a2bf8c24ea2f",
       "tls": {
@@ -508,7 +508,7 @@
     {
       "type": "vless",
       "tag": "NL-Amsterdam-AMS 14 § 15",
-      "server": "141.148.227.19",
+      "server": "zula.ir",
       "server_port": 443,
       "uuid": "63673fba-f95d-438c-9f78-a2bf8c24ea2f",
       "tls": {
